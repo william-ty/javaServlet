@@ -1,6 +1,5 @@
 .settings
 build
-webapp
 !webapp/*.jsp
 .classpath
 .project
