@@ -1,13 +1,17 @@
+.settings
+build
+webapp
+!webapp/*.jsp
+.classpath
+.project
+
 # Ignore everything
-/*
+#/*
 
 # But not these files...
 !.gitignore
-!javaServletFolder
-/javaServletFolder/*
-!javaServletFolder/src/
-/javaServletFolder/*
-!javaServletFolder/webapp/*.jsp
+#!javaServletFolder/src/
+#!javaServletFolder/webapp/*.jsp
 
 
 
