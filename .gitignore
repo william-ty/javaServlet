@@ -3,8 +3,8 @@
 /*/
 # But not these files...
 !.gitignore
-!/src/
-!webapp/*.jsp
+!javaServletFolder/src/
+!javaServletFolder/webapp/*.jsp
 
 
 
