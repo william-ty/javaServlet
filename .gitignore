@@ -2,7 +2,6 @@
 *
 # But not these files...
 !.gitignore
-!src
 !webapp/*.jsp
 
 
