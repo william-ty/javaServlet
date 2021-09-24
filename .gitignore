@@ -6,6 +6,7 @@
 !javaServletFolder
 /javaServletFolder/*
 !javaServletFolder/src/
+/javaServletFolder/*
 !javaServletFolder/webapp/*.jsp
 
 
