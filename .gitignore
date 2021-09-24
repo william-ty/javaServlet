@@ -1,8 +1,10 @@
 # Ignore everything
 /*
-/*/
+
 # But not these files...
 !.gitignore
+!javaServletFolder
+/javaServletFolder/*
 !javaServletFolder/src/
 !javaServletFolder/webapp/*.jsp
 
